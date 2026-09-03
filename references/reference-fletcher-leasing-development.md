@@ -1,5 +1,5 @@
 # Leasing in Development — Matthew Fletcher, Rachel Freeman, Murat Sultanov, and Umed Temirbek
-**Format**: PDF text extraction | **Sections**: 3 chapters | **Depth**: study
+**Format**: pdf | **Pages**: 78 | **Sections**: 3 chapters | **Depth**: study
 
 ## Mental Model (read first)
 Leasing can expand productive-asset access where collateral, credit information, and enforcement systems constrain ordinary lending. A viable leasing market depends on the whole ecosystem: commercial law, repossession, registration, prudential treatment, accounting, tax, supervision, funding, professional capacity, and customer understanding.
@@ -45,3 +45,6 @@ A development institution supports agricultural-equipment leasing for SMEs. Diag
 1. Leasing-market development is an ecosystem project, not a template contract.
 2. Ownership, priority, repossession, tax, and accounting determine commercial viability.
 3. Regulation should match funding, conduct, and systemic risks.
+
+## Coverage Note
+Retains all three chapters’ development rationale, legal framework, regulation/supervision, accounting/tax, and reform sequence. Country examples and implementation templates were compressed; local title, insolvency, tax, and accounting rules require fresh advice.

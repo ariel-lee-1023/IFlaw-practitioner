@@ -1,5 +1,5 @@
 # The Handbook of International Trade and Finance — Anders Grath
-**Format**: Markdown extraction of third edition | **Sections**: 8 chapters | **Depth**: study
+**Format**: md (third edition) | **Pages**: ~236 | **Sections**: 8 chapters | **Depth**: study
 
 ## Mental Model (read first)
 An export sale is unfinished until delivery obligations are performed and usable funds are received. Structure payment, finance, transport documents, insurance, and currency terms as one risk-allocation package. Begin with an individual transaction risk assessment; choose instruments only after identifying what can fail, who controls it, and when bargaining power shifts.
@@ -70,3 +70,6 @@ An exporter sells machinery to a higher-risk jurisdiction with six months’ man
 2. Documentary instruments protect only against risks their documents and undertakings actually cover.
 3. Finance, insurance, currency, logistics, and contract performance must share one timeline.
 4. Country-neutral principles require current local-law and sanctions checks.
+
+## Coverage Note
+Retains all eight chapters’ operational spine: risk assessment, payment methods, guarantees, currency, insurance, trade finance, structured finance, and terms of payment. Product tables, country data, sample wording, and repetitive illustrations were compressed.

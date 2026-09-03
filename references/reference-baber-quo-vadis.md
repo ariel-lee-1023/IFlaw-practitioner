@@ -1,5 +1,5 @@
 # International Financial Law: Quo Vadis? — Graeme Baber
-**Format**: PDF text extraction of available Chapters 1, 2, and 5 | **Sections**: 3 chapters | **Depth**: study
+**Format**: pdf (available Chapters 1, 2, and 5) | **Pages**: ~225 | **Sections**: 3 chapters | **Depth**: study
 
 ## Mental Model (read first)
 Baber frames international financial law as a cross-border field in which soft standards, global agenda-setting, specialist standard setters, monitoring, and domestic implementation form an emerging architecture. This module is deliberately limited to the three available chapters and reflects a 2017-era account.
@@ -39,3 +39,6 @@ To assess a jurisdiction’s Basel alignment, begin with the current BCBS text, 
 1. International financial law is institutionally networked and heavily reliant on soft standards.
 2. Monitoring and domestic implementation give the architecture practical force.
 3. The available source covers only Chapters 1, 2, and 5 and is historical orientation.
+
+## Coverage Note
+Retains the available chapters’ field definition, global-architecture map, Basel framework, and implementation logic. The rest of the book was unavailable; historical memberships, standards, ratios, and dates were deliberately excluded as operative law.

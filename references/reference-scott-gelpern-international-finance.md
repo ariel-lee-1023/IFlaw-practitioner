@@ -1,5 +1,5 @@
 # International Finance: Transactions, Policy, and Regulation — Hal S. Scott and Anna Gelpern
-**Format**: Markdown extraction of 22nd edition | **Sections**: 20 chapters | **Depth**: study
+**Format**: md (22nd edition) | **Pages**: ~1,279 | **Sections**: 20 chapters | **Depth**: study
 
 ## Mental Model (read first)
 International finance cannot be separated into “private deal” and “public regulation.” A transaction changes incentives and channels risk through institutions and infrastructure; regulation changes transaction design and may relocate rather than eliminate risk. Analyze every problem at three levels: firm/contract, market/infrastructure, and sovereign/international coordination.
@@ -86,3 +86,6 @@ A global dealer faces margin calls after a sovereign shock while its money-marke
 3. Infrastructure reforms can transform and concentrate risk as well as reduce it.
 4. Sovereign and cross-border crises expose the limits of entity-based national law.
 5. Every regulatory recommendation should identify authority, incentives, distribution, and spillovers.
+
+## Coverage Note
+Retains the twenty-chapter architecture with priority on systemic risk, cross-border banking/securities regulation, infrastructure, securitization, derivatives, funds, project finance, sovereign debt, and IMF/development finance. Case excerpts, country chronology, and terrorism-finance detail were compressed; the edition’s 2018-era rules require updating.

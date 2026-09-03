@@ -1,5 +1,5 @@
 # “Institutional Design: The Choices for National Systems” — Eilís Ferran
-**Format**: PDF text extraction | **Sections**: 10 thematic sections | **Depth**: study
+**Format**: pdf | **Pages**: 32 | **Sections**: 10 thematic sections | **Depth**: study
 
 ## Mental Model (read first)
 There is no universally correct regulator chart. Institutional design allocates mandates, information, expertise, accountability, and crisis powers under local political and market conditions. Compare designs by coordination and incentive effects, not labels.
@@ -45,3 +45,6 @@ A country is redesigning oversight after failures at a bank-owned investment pla
 2. Clear mandates and interfaces matter more than fashionable labels.
 3. Central-bank involvement should follow information and crisis-function needs.
 4. Independence and accountability are complements, not opposites.
+
+## Coverage Note
+Retains the chapter’s principal allocation models, central-bank question, mandates, independence/accountability, and coordination. Country histories and organizational detail were compressed; present institutional assignments require current verification.

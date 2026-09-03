@@ -1,5 +1,5 @@
 # “Introduction—What Is FinTech?” — Jelena Madir
-**Format**: OCR text of Chapter 1 | **Sections**: 1 chapter with thematic subsections | **Depth**: study
+**Format**: pdf (OCR, Chapter 1) | **Pages**: 11 | **Sections**: 1 chapter with thematic subsections | **Depth**: study
 
 ## Mental Model (read first)
 FinTech is not one legal category. It is technology-enabled change in financial products, delivery, intermediation, data use, and market structure. Classify the function, parties, money/data flow, and risk before selecting a regulatory label.
@@ -36,3 +36,6 @@ A wallet adds automated investing and crypto transfers through partners. Decompo
 1. Functional decomposition precedes regulatory classification.
 2. Technology can relocate intermediaries and dependencies rather than eliminate them.
 3. Sandboxes manage experimentation; they do not certify legality or safety.
+
+## Coverage Note
+Limited to the introductory chapter and retains its ecosystem and product map: payments, APIs/open banking, crowdfunding, robo-advice, DLT/crypto, RegTech, sandboxes, and disintermediation. It is an orientation module, not a jurisdictional rulebook.

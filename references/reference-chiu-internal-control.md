@@ -1,5 +1,5 @@
 # Regulating (From) the Inside — Iris H-Y Chiu
-**Format**: PDF text extraction | **Sections**: 8 chapters | **Depth**: study
+**Format**: pdf | **Pages**: 364 | **Sections**: 8 chapters | **Depth**: study
 
 ## Mental Model (read first)
 Internal control is **meta-regulation**: law requires a financial institution to build systems that govern its own risk-taking and compliance. Formal independence, reporting lines, and procedures are necessary but insufficient. Evaluate whether control functions possess information, expertise, status, resources, escalation power, and cultural support—and whether incentives cause the business to evade or internalize control.
@@ -61,3 +61,6 @@ A bank launches an AI-driven credit product with rapid growth targets. Build a d
 2. Control functions need expertise, information, stature, resources, and escalation power.
 3. Culture is visible in incentives and treatment of challenge.
 4. Effective regulation combines external standards with internal ownership and credible enforcement.
+
+## Coverage Note
+Retains all eight chapters’ control-function architecture, meta-regulation critique, governance, culture, incentives, individual responsibility, enforcement, and whistleblowing. Source-era UK/EU provisions and detailed academic debates were compressed and must not be treated as current law.

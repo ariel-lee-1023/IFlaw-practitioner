@@ -1,5 +1,5 @@
 # Law and Practice of International Finance — Philip R. Wood
-**Format**: OCR text from 1980 first edition plus later-edition selected Chapters 7–12, 23–24, and 30 | **Sections**: 21 logical chapters | **Depth**: study
+**Format**: pdf (OCR; 1980 first edition plus later-edition selected chapters) | **Pages**: ~554 | **Sections**: 21 logical chapters | **Depth**: study
 
 ## Mental Model (read first)
 Treat every cross-border financing as a stack of legal systems, documents, parties, assets, payment channels, and insolvency outcomes. The practitioner’s task is not to find one governing law, but to allocate each issue to the law that actually controls it, then make the documents, conditions precedent, opinions, perfection steps, and enforcement plan cohere. Wood’s recurring test is practical: what happens to the creditor’s bargain when authority fails, payment stops, an asset moves, a sovereign intervenes, or insolvency overrides the contract?
@@ -92,3 +92,6 @@ A lender syndicate finances a foreign project company under English-law document
 3. Security, guarantees, netting, and settlement protections must survive local insolvency law.
 4. Opinions and closing checklists allocate verification; they do not cure missing facts or filings.
 5. Wood’s historical rules require current-law verification, while his transaction decomposition remains durable.
+
+## Coverage Note
+Combines the 1980 first edition with later-edition Chapters 7–12, 23–24, and 30. Retains the requested transaction architecture, clause functions, conflicts, sovereign risk, lending/bonds, guarantees/security, project finance, tax, opinions, and settlement; case citations, raw clauses, and superseded statutory detail were compressed. Securitization and derivatives are covered principally by Scott and Gelpern because the available Wood extracts do not contain their dedicated chapters.

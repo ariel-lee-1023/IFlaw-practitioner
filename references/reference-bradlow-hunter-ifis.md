@@ -1,5 +1,5 @@
 # International Financial Institutions and International Law — Daniel D. Bradlow and David B. Hunter (eds.)
-**Format**: Markdown extraction | **Sections**: 11 chapters plus introduction/conclusion | **Depth**: study
+**Format**: md | **Pages**: ~416 | **Sections**: 11 chapters plus introduction/conclusion | **Depth**: study
 
 ## Mental Model (read first)
 An international financial institution is simultaneously a treaty-based organization, a financial actor, a governance system, and a source of operational norms. Do not ask only whether an IFI is “bound by international law.” Identify the institution, mandate, legal personality, source of obligation, decision-maker, affected stakeholder, forum, immunity, and accountability route.
@@ -75,3 +75,6 @@ For a contested World Bank-financed infrastructure project, prepare an authority
 3. Conditionality is both a financing-control mechanism and an exercise of governance power.
 4. Participation and independent review are central sources of institutional legitimacy.
 5. Human-rights and environmental claims require a precise legal pathway, not slogans.
+
+## Coverage Note
+Retains all eleven chapters at framework level, including personality, immunity, responsibility, conditionality, participation, human rights, Indigenous peoples, labor, and environment. Individual authorities and project narratives were compressed unless needed to preserve a legal distinction.

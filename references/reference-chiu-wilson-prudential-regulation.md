@@ -1,5 +1,5 @@
 # Banking Law and Regulation, Chapters 5, 8, and 9 — Iris H-Y Chiu and Joanna Wilson
-**Format**: OCR text from selected chapters | **Sections**: 3 chapters | **Depth**: study
+**Format**: pdf (OCR, selected chapters) | **Pages**: 95 | **Sections**: 3 chapters | **Depth**: study
 
 ## Mental Model (read first)
 External prudential regulation specifies the resilience outcomes and supervisory architecture that a bank’s internal governance must implement. Read capital, liquidity, leverage, large exposures, systemic-bank buffers, stress testing, supervision, and resolution together: optimizing one metric can move risk into another.
@@ -49,3 +49,6 @@ For a bank expanding cross-border wholesale lending, map exposures by obligor gr
 2. Capital, leverage, liquidity, concentration, and resolution constraints are complementary.
 3. Consolidated strength cannot automatically be moved to the entity or currency where stress occurs.
 4. Prudential rules must be translated into internal governance and evidence.
+
+## Coverage Note
+Limited to Chapters 5, 8, and 9: international supervision, capital adequacy, liquidity, leverage, large exposures, systemic-bank treatment, and stress testing. Other banking-law topics and current Basel/domestic implementation are outside the source slice.

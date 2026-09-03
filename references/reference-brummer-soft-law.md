@@ -1,5 +1,5 @@
 # “Why Soft Law Dominates International Finance—and Not Trade” — Chris Brummer
-**Format**: PDF text extraction | **Sections**: 8 article sections | **Depth**: study
+**Format**: pdf | **Pages**: 21 | **Sections**: 8 article sections | **Depth**: study
 
 ## Mental Model (read first)
 Do not infer practical weakness from non-binding form. International financial standards are often made by regulator networks with ambiguous legal status, yet can become “harder” through domestic implementation, market discipline, surveillance, reputational pressure, and institutional access. Evaluate a regime’s full compliance machinery.
@@ -38,3 +38,6 @@ For a Basel standard, identify the network’s text and status, domestic impleme
 1. International financial soft law can be operationally hard.
 2. Compliance is produced by an institutional ecosystem, not a label.
 3. Speed and expertise trade off against legitimacy and formal enforcement.
+
+## Coverage Note
+Retains the finance-versus-trade comparison, standard-setting network, institutional-enforcement account, and structural weaknesses. Historical examples and footnote debates were compressed; current standards must be retrieved separately.

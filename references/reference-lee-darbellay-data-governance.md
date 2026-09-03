@@ -1,5 +1,5 @@
 # Data Governance in AI, FinTech and LegalTech — Joseph Lee and Aline Darbellay (eds.)
-**Format**: Markdown extraction | **Sections**: 8 | **Depth**: study | **Coverage**: prioritized Chapters 1, 2, 4, 5, 6, 9, 10, and 11
+**Format**: md | **Pages**: ~308 | **Sections**: 8 prioritized chapters | **Depth**: study
 
 ## Mental Model (read first)
 Financial data is simultaneously an input to decisions, a regulated record, a source of market power, an object of control claims, and critical infrastructure. “Who owns the data?” is usually too crude. Map the data lifecycle and assign lawful basis, access, quality, provenance, decision responsibility, security, sharing, retention, auditability, and redress at each stage.
@@ -67,3 +67,6 @@ A payment platform uses transaction data to train an AI fraud model and offer me
 2. Privacy, property, competition, fiduciary/governance, and cybersecurity questions overlap but are not interchangeable.
 3. AI accountability depends on decision rights and evidence, not generic ethics statements.
 4. Financial-market data has both commercial value and public-infrastructure significance.
+
+## Coverage Note
+Prioritizes Chapters 1, 2, 4, 5, 6, 9, 10, and 11 as requested. Chapters 3, 7, 8, and 12–14 were omitted except where needed for routing; jurisdiction examples and source-era EU/sectoral rules were compressed and require current verification.

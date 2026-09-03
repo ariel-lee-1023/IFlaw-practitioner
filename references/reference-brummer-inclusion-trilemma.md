@@ -1,5 +1,5 @@
 # “Regulatory Agencies and the Inclusion Trilemma” — Chris Brummer
-**Format**: PDF text extraction | **Sections**: 6 thematic sections | **Depth**: study
+**Format**: pdf | **Pages**: 23 | **Sections**: 6 thematic sections | **Depth**: study
 
 ## Mental Model (read first)
 Financial inclusion is not automatically produced by innovation, and access alone is not beneficial inclusion. The **inclusion trilemma** highlights tensions among market integrity, innovation, and financial inclusion—and directs attention to agency mandates, measurement, and distribution.
@@ -39,3 +39,6 @@ A mobile lender expands credit using alternative data. Evaluate approval gains f
 1. Access is not the same as fair, useful, durable inclusion.
 2. Innovation can include and exclude at the same time.
 3. Agencies need explicit mandates, representative evidence, and outcome measures.
+
+## Coverage Note
+Retains the inclusion trilemma, agency-design implications, distributional analysis, and measurement discipline. Literature review and citation detail were compressed; the framework does not supply current agency powers.

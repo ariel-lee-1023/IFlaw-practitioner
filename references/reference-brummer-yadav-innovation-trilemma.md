@@ -1,5 +1,5 @@
 # “Fintech and the Innovation Trilemma” — Chris Brummer and Yesha Yadav
-**Format**: PDF text extraction | **Sections**: 6 article sections | **Depth**: study
+**Format**: pdf | **Pages**: 73 | **Sections**: 6 article sections | **Depth**: study
 
 ## Mental Model (read first)
 FinTech policy confronts an **innovation trilemma**: regulators cannot maximize regulatory clarity, market integrity, and financial innovation simultaneously without institutional and informational trade-offs. Use the trilemma to expose the sacrifice embedded in a proposal, not as a mechanical law.
@@ -39,3 +39,6 @@ A regulator considers authorizing AI-generated retail investment advice. Full pr
 1. FinTech policy choices trade clarity, integrity, and innovation.
 2. Experimental tools are valuable when they generate evidence under safeguards.
 3. The trilemma disciplines explanations; it does not dictate one universal balance.
+
+## Coverage Note
+Retains the clarity–integrity–innovation trade-off, information problem, institutional constraints, and experimental-governance tools. Case detail was compressed; current sandbox and authorization law is outside this module.

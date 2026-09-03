@@ -1,5 +1,5 @@
 # “Data Privacy in Mobile Payment” — Robin Hui Huang
-**Format**: PDF text extraction of Chapter 6, Fintech Regulation in China | **Sections**: 6 thematic sections | **Depth**: study
+**Format**: pdf (Chapter 6) | **Pages**: 44 | **Sections**: 6 thematic sections | **Depth**: study
 
 ## Mental Model (read first)
 Use this chapter as a China-specific case study of mobile-payment platforms, data exploitation, consent, institutional allocation, and enforcement. Do not generalize its historical Chinese rules into universal FinTech principles or assume they remain current.
@@ -43,3 +43,6 @@ A Chinese mobile-payment platform proposes to use wallet histories and location 
 1. Mobile-payment data governance is inseparable from platform structure and market power.
 2. Consent alone cannot carry the full governance burden.
 3. Chinese rules must remain jurisdiction-specific and current-law verified.
+
+## Coverage Note
+Limited to Chapter 6 and retained as a historical China module covering mobile-payment markets, privacy/consent, platform governance, institutions, and enforcement. No source-era rule or institutional name is treated as current without primary-source verification.
