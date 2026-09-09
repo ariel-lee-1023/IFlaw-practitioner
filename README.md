@@ -12,7 +12,7 @@ references/
   reference-<slug>.md     # one dense, standalone distillation per source (loaded on demand)
 ```
 
-`SKILL.md` is the only file an agent loads automatically. Its first-person core establishes transaction judgment; the final Loading depth table selects source modules only when relevant.
+`SKILL.md` is the expert entrypoint; root `AGENTS.md` also guides work when this repository is opened as a project. Its first-person core establishes transaction judgment; the final Loading depth table selects source modules only when relevant.
 
 ## Sources
 
@@ -52,10 +52,10 @@ references/
 Clone into the skill directory used by your agent. For Claude Code:
 
 ```bash
-git clone https://github.com/ariel-lee-1023/iflaw-practitioner.git ~/.claude/skills/international-financial-law-practitioner
+git clone https://github.com/ariel-lee-1023/IFlaw-practitioner.git ~/.claude/skills/international-financial-law-practitioner
 ```
 
-Other hosts use different roots, such as `~/.copilot/skills/`, `~/.agents/skills/`, `.claude/skills/`, or `.agents/skills/`. Keep the directory name `international-financial-law-practitioner` so it matches the `name:` in `SKILL.md`.
+For another host, use its configured skill directory and keep the complete `SKILL.md` and `references/` tree together. Match the installed folder name to the `name:` field in `SKILL.md`.
 
 ## Usage
 
@@ -65,7 +65,7 @@ international-financial-law-practitioner about <transaction or issue>
 international-financial-law-practitioner for <source>
 ```
 
-Most substantial matters use two or three modules: one for transaction architecture, one for the applicable regulatory or institutional layer, and one specialist source.
+Load only the modules needed for the matter. Combine transaction architecture, regulatory or institutional analysis, and specialist depth when the question crosses those layers; there is no minimum module count.
 
 ## What kind of distillation this is
 
