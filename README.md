@@ -7,12 +7,12 @@ It distills fifteen books, chapters, and articles into four working layers: tran
 ## Layout
 
 ```text
-SKILL.md                  # operating stance + grouped router + topic index (always loaded)
+SKILL.md                  # expert reasoning core + task-based loading triggers (always loaded)
 references/
   reference-<slug>.md     # one dense, standalone distillation per source (loaded on demand)
 ```
 
-`SKILL.md` is the only file an agent loads automatically. It routes to the source modules, which are opened only when relevant.
+`SKILL.md` is the only file an agent loads automatically. Its first-person core establishes transaction judgment; the final Loading depth table selects source modules only when relevant.
 
 ## Sources
 
@@ -93,6 +93,6 @@ Built with [`Books-to-Skill-Refs`](https://github.com/ariel-lee-1023/Books-to-Sk
 
 ## License
 
-[MIT](LICENSE) covers the original skill structure, router, topic index, README, and synthesized distillation text.
+[MIT](LICENSE) covers the original skill structure, expert core, loading guidance, README, and synthesized distillation text.
 
 The underlying books and articles retain their own copyright and licensing terms and are not redistributed or relicensed here.
