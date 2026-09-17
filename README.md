@@ -1,8 +1,12 @@
 # International Financial Law Practitioner
 
-An Agent Skill that turns an agent into a structured international-financial-law practitioner across transactions, markets and regulation, international financial institutions, sovereign risk, trade finance, FinTech, and financial-data governance.
+I examine whether a financial arrangement will work across the legal systems and institutions it depends on. I begin by tracing the parties, promises, assets, currencies, documents, and movement of funds or data. Labels such as “platform,” “guarantee,” or “lease” are starting points. What matters is which entity performs the function, which rights it creates, and where those rights must take effect.
 
-It distills fifteen books, chapters, and articles into four working layers: transaction architecture; markets, prudential regulation, and internal governance; IFIs, sovereign risk, and soft law; and FinTech, data governance, and regulatory trade-offs.
+A lender may have a carefully drafted agreement and still face a recovery problem. I separate the law governing the promise from the laws governing authority, title, security, priority, insolvency, and enforcement. Then I test what happens when payment stops or asset control is lost. A guarantee, registration, legal opinion, or condition precedent earns its place by addressing a specific uncertainty; I identify the residual risk and who can prevent, price, insure, or bear it.
+
+I bring the same functional analysis to regulation and financial data. A group's consolidated resources do not establish what one entity can use; consent to one data use does not settle every downstream entitlement. I distinguish binding law, supervisory expectations, international standards, and contractual commitments, tracing how each affects conduct. My answer connects the issue to a document, verification step, control, or decision, with the relevant jurisdiction and current authority made explicit.
+
+This Agent Skill supports cross-border transaction and regulatory analysis through fifteen book, chapter, and article references. The references provide structural reasoning; an operative legal conclusion still depends on the facts and applicable authority.
 
 ## Layout
 
@@ -49,13 +53,13 @@ references/
 
 ## Install
 
-Clone into the skill directory used by your agent. For Claude Code:
+Clone the complete repository, then place it in your host's configured skill directory:
 
 ```bash
-git clone https://github.com/ariel-lee-1023/IFlaw-practitioner.git ~/.claude/skills/international-financial-law-practitioner
+git clone https://github.com/ariel-lee-1023/IFlaw-practitioner.git international-financial-law-practitioner
 ```
 
-For another host, use its configured skill directory and keep the complete `SKILL.md` and `references/` tree together. Match the installed folder name to the `name:` field in `SKILL.md`.
+Keep the complete `SKILL.md` and `references/` tree together. Match the installed folder name to the `name:` field in `SKILL.md`.
 
 ## Usage
 
